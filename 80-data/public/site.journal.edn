@@ -1,0 +1,5 @@
+[["texas-site-1" :site/url "https://www.ti.com" 1 :add]
+ ["texas-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["texas-site-1" :site/http-status 200 1 :add]
+ ["texas-site-1" :site/title "Analog | Embedded processing | Semiconductor company | TI.com" 1 :add]
+ ["texas-site-1" :site/description "Texas Instruments helps engineers and innovators build smarter, safer, and more efficient systems with semiconductor products across automotive, industrial, data center, and personal electronics." 1 :add]]
