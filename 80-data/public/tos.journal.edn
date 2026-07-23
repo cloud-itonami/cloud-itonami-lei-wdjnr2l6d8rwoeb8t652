@@ -72,5 +72,5 @@ Effective Date: March 27, 2025
 " 1 :add]
  ["ti-tos-1" :tos/source-url "https://www.ti.com/legal/terms-of-use.html" 1 :add]
  ["ti-tos-1" :tos/retrieved-at "2026-07-10" 1 :add]
- ["ti-tos-1" :tos/sha256 "18b7a00675dc714b0351fa321df7d2379aba71c6e48ae22f8c28dcc660273c35" 1 :add]
+ ["ti-tos-1" :tos/sha256 "722b9d505530137baf9e765120f12e4bf7907006ebc6d869682945b3817d6159" 1 :add]
  ["ti-tos-1" :tos/doc-type :terms-of-service 1 :add]]
